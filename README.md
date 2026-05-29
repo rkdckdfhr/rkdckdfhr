@@ -1,16 +1,15 @@
-## Hi there 👋
+## 안녕하세요
 
-<!--
-**rkdckdfhr/rkdckdfhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 내용 -->
 
-Here are some ideas to get you started:
+### (미완)
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,java,py,git">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h3 align="center">⚒️ Tools ⚒️</h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,github,eclipse,discord">
+</div>
